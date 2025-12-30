@@ -71,6 +71,20 @@ This document covers the entire lifecycle of learning Data Structures & Algorith
 
 <br />
 
+## 📖 Phase 2: The ”Zero-to-Hero” DSA Notes (Coming Soon)
+
+You now have the **Roadmap** (This Document). Next, you need the **Knowledge**. 
+
+I am currently writing **Part 2: The ”Zero-to-Hero” DSA Notes**. Unlike standard textbooks, these notes are being handwritten specifically for university students, featuring:
+
+* ✅ **Visual Diagrams** for every algorithm to build intuition.
+* ✅ **Real-world Analogies** to make complex logic simple (No boring definitions).
+* ✅ **Exam-Focused Solutions** tailored for Semester Lab Tasks and Vivas.
+
+> **Status:** This is the "Execution Layer" of the Blueprint. Stay tuned for the release.
+
+---
+
 ## ☕ Buy Me a Chai (Appreciation)
 
 I created this Blueprint completely **Free** and **Open Source** because I believe quality guidance should be accessible to every student.
